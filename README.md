@@ -1,4 +1,4 @@
-# Project Name: NYC Restaurant Demand Analysis for Food Aggregator Company
+# NYC Restaurant Demand Analysis for Food Aggregator Company
 
 ## Introduction
 
